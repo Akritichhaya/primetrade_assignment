@@ -1,0 +1,9 @@
+INSIGHTS SUMMARY
+
+Extreme Fear: trades=2326, net_pnl=4399.94, avg_pnl=1.8916, median_pnl=0.0000, win_rate=29.28%
+Extreme Greed: trades=5621, net_pnl=1156893.68, avg_pnl=205.8163, median_pnl=0.9605, win_rate=55.33%
+Fear: trades=13869, net_pnl=1779225.58, avg_pnl=128.2880, median_pnl=0.0000, win_rate=38.18%
+Greed: trades=11292, net_pnl=609632.53, avg_pnl=53.9880, median_pnl=0.0000, win_rate=43.57%
+Neutral: trades=2756, net_pnl=74656.74, avg_pnl=27.0888, median_pnl=0.0000, win_rate=49.49%
+
+Welch t-test (Greed vs Fear avg PnL): t=-4.266, df~23710.3, p~0.0000
